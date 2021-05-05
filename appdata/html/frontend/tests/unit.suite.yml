@@ -1,0 +1,5 @@
+suite_namespace: frontend\tests\unit
+class_name: UnitTester
+modules:
+  enabled:
+    - Asserts
